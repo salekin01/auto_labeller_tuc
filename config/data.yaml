@@ -1,0 +1,5 @@
+train: ./data/train
+val: ./data/val
+
+nc: 4
+names: ['speed sign', 'stop sign', 'crosswalk', 'danger sign']
